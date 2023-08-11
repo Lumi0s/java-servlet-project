@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.polsl.baconwebapp"},{"l":"pl.polsl.baconwebapp.model"},{"l":"pl.polsl.baconwebapp.resources"},{"l":"pl.polsl.baconwebapp.servlets"}];updateSearchResults();
